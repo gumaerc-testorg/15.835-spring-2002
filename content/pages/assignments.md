@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 8f948ce5-a9b1-d090-f9c0-1abe65939877
 ---
@@ -32,7 +35,7 @@ and Assignments
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 1: Marketing and Entrepreneurship
 {{< thclose >}}
 
@@ -106,7 +109,7 @@ Guest Speaker: Eric Spitz, Chief Executive Officer of Trakus
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 2: Identifying Market Opportunities
 {{< thclose >}}
 
@@ -225,7 +228,7 @@ Assignment 1: Concept Testing Example ([PDF]({{< baseurl >}}/resources/pdaconcep
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 3: Market Development
 {{< thclose >}}
 
@@ -340,7 +343,7 @@ MacMillan, I.C., and R.G. McGrath, "Discovering New Points of Differentiation," 
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 4: Entrepreneurial Communication Strategy
 {{< thclose >}}
 
@@ -413,7 +416,7 @@ Case: TIVO (HBS case, 5- 501-057).
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 5: Entrepreneurial Pricing Strategy
 {{< thclose >}}
 
@@ -477,7 +480,7 @@ Case: Rogers Communications, Inc., The Wave (HBS case, 9-597-050).
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 6: Entrepreneurial Distribution Strategy
 {{< thclose >}}
 
@@ -526,7 +529,7 @@ Case: Keurig (HBS case, 9-899-180).
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 7: Building Customer Relationships
 {{< thclose >}}
 
@@ -575,7 +578,7 @@ Case: BizRate.com (HBS, 9-501-024).
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Presentation of Marketing Plans
 {{< thclose >}}
 

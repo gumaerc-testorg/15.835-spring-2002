@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: f0911835-ded8-5134-cc58-8134901edfc9
 ---
@@ -30,7 +33,7 @@ Files
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 Module 1: Marketing and Entrepreneurship
 {{< thclose >}}
 
@@ -75,7 +78,7 @@ Guest Speaker: Eric Spitz, Chief Executive Officer of Trakus
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 Module 2: Identifying Market Opportunities
 {{< thclose >}}
 
@@ -132,7 +135,7 @@ AT&T; USA Direct In-Languge Service: India
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 Module 3: Market Development
 {{< thclose >}}
 

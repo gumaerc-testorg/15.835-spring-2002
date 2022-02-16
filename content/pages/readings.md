@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 146b2278-2283-eaa4-70b9-accdb94efaa4
 ---
@@ -28,7 +31,7 @@ Readings
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 Module 1: Marketing and Entrepreneurship
 {{< thclose >}}
 
@@ -87,7 +90,7 @@ Guest Speaker: Eric Spitz, Chief Executive Officer of Trakus
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 Module 2: Identifying Market Opportunities
 {{< thclose >}}
 
@@ -164,7 +167,7 @@ Case: AT&T USA Direct In-Language Service, India (HBS, 9-596-013).
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 Module 3: Market Development
 {{< thclose >}}
 
@@ -257,7 +260,7 @@ MacMillan, I.C., and R.G. McGrath, "Discovering New Points of Differentiation," 
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 Module 4: Entrepreneurial Communication Strategy
 {{< thclose >}}
 
@@ -314,7 +317,7 @@ Case: TIVO (HBS case, 5- 501-057).
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 Module 5: Entrepreneurial Pricing Strategy
 {{< thclose >}}
 
@@ -369,7 +372,7 @@ Case: Rogers Communications, Inc., The Wave (HBS case, 9-597-050).
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 Module 6: Entrepreneurial Distribution Strategy
 {{< thclose >}}
 
@@ -412,7 +415,7 @@ Case: Keurig (HBS case, 9-899-180).
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 Module 7: Building Customer Relationships
 {{< thclose >}}
 
@@ -455,7 +458,7 @@ Case: BizRate.com (HBS, 9-501-024).
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 Presentation of Marketing Plans
 {{< thclose >}}
 
