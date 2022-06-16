@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides readings, study questions, and assignments for
+  the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -219,8 +221,8 @@ Read the assigned case and think about:
 3.  How would you assess Mr. Elliott's use of ATT's projected capital and operating costs for ETPH planning? What are the implications of the projected costs in light of the business demand forecasts and anticipated revenues? (Hint: breakeven analysis)
 4.  What are critical components that Digitron did not take into account?
 
-Assignment 1: Concept Testing ([PDF]({{< baseurl >}}/resources/assignmenti))  
-Assignment 1: Concept Testing Example ([PDF]({{< baseurl >}}/resources/pdaconcepttest))
+Assignment 1: Concept Testing ({{% resource_link a392c23c-c262-ca62-516f-83f4107255e5 "PDF" %}})  
+Assignment 1: Concept Testing Example ({{% resource_link d2a9a649-b481-616a-f1d6-03f3085241be "PDF" %}})
 
 
 {{< tdclose >}}
@@ -367,9 +369,9 @@ Joachimsthaler, E., and D.A. Aaker, "Building Brands Without Mass Media," _HBR_,
 {{< tdopen >}}
 
 
-Assignment 2: Demand Forecasting ([PDF]({{< baseurl >}}/resources/assignment2))
+Assignment 2: Demand Forecasting ({{% resource_link ea886d27-f825-041c-94cf-2b9fa20d50f9 "PDF" %}})
 
-Assignment 2: Blogit Software ([ZIP]({{< baseurl >}}/resources/prg))  
+Assignment 2: Blogit Software ({{% resource_link a629d656-1e3a-8e28-fde0-dd89ce007172 "ZIP" %}})  
 (this archive contains the Blogit executable file, 1 .dat file and 1 .prg file which are required by the application).
 
 

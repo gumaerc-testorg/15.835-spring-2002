@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: this section provides selected lecture notes from the first half of the
+  course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -48,7 +50,7 @@ Module 1: Marketing and Entrepreneurship
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/session1))
+({{% resource_link bae6d8fa-5e40-36f0-a1db-cedcae7b473f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +62,7 @@ Introduction
 Sustaining Competitive Advantages of New Ventures
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/session2))
+({{% resource_link 8148720a-64c4-49f7-04bb-c93d133d23d2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ Module 2: Identifying Market Opportunities
 Market Research
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/session4))
+({{% resource_link 98076504-7dc4-9a5c-9bad-209808970edf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ Market Research
 Wildfire Communications
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/session5))
+({{% resource_link 69978c0b-031d-140c-b4be-76e89740214f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ Wildfire Communications
 Demand Forecasting
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/session6))
+({{% resource_link 4e30eec0-5db3-8327-28dc-ca533c270bab "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +131,7 @@ Demand Forecasting
 AT&T; USA Direct In-Languge Service: India
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/session7))
+({{% resource_link 9fd26a05-3ed7-d04b-a138-10f2d9ce5dbd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +152,7 @@ Module 3: Market Development
 Creating a New Market
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/session8))
+({{% resource_link f60359ae-ce6d-d5ca-bd59-541b44408750 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +164,7 @@ Creating a New Market
 Segmentation and Targeting
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/session9))
+({{% resource_link 4a78fb73-bfd0-5bc3-92b7-dea833568c85 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +176,7 @@ Segmentation and Targeting
 Product Concept Development
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/session10))
+({{% resource_link 82251c8b-6dfb-ecc8-f132-9e0c9512f3e3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +200,7 @@ Focus vs Diversification
 Positioning Tools
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/session12))
+({{% resource_link 217856b1-9498-fba4-c0c6-0915fe6cb475 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

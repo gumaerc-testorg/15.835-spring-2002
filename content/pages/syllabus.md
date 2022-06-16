@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides a topic overview and information on course
+  meeting times, format, readings, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
