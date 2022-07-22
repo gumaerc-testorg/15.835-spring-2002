@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of course modules, topics, readings,
+  and key issues.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: b6d1f888-8985-a751-febd-c284b3f2246d
 ---
@@ -31,7 +35,7 @@ Key Issues
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 1: Marketing and Entrepreneurship
 {{< thclose >}}
 
@@ -111,7 +115,7 @@ Challenges and difficulties in marketing faced by a new venture.
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 2: Identifying Market Opportunities
 {{< thclose >}}
 
@@ -222,7 +226,7 @@ Case: AT&T USA Direct In-Language Service, India (HBS, 9-596-013).
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 3: Market Development
 {{< thclose >}}
 
@@ -336,7 +340,7 @@ MacMillan, I.C., and R.G. McGrath, "Discovering New Points of Differentiation," 
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 4: Entrepreneurial Communication Strategy
 {{< thclose >}}
 
@@ -412,7 +416,7 @@ Consumer Education
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 5: Entrepreneurial Pricing Strategy
 {{< thclose >}}
 
@@ -496,7 +500,7 @@ Case: Rogers Communications, Inc., The Wave (HBS case, 9-597-050).
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 6: Entrepreneurial Distribution Strategy
 {{< thclose >}}
 
@@ -545,7 +549,7 @@ Case: Keurig (HBS case, 9-899-180).
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 7: Building Customer Relationships
 {{< thclose >}}
 
@@ -600,7 +604,7 @@ Case: BizRate.com (HBS, 9-501-024).
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Presentation of Marketing Plans
 {{< thclose >}}
 

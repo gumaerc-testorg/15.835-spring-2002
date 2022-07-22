@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides readings, study questions, and assignments for
+  the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 8f948ce5-a9b1-d090-f9c0-1abe65939877
 ---
@@ -32,7 +37,7 @@ and Assignments
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 1: Marketing and Entrepreneurship
 {{< thclose >}}
 
@@ -106,7 +111,7 @@ Guest Speaker: Eric Spitz, Chief Executive Officer of Trakus
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 2: Identifying Market Opportunities
 {{< thclose >}}
 
@@ -216,8 +221,8 @@ Read the assigned case and think about:
 3.  How would you assess Mr. Elliott's use of ATT's projected capital and operating costs for ETPH planning? What are the implications of the projected costs in light of the business demand forecasts and anticipated revenues? (Hint: breakeven analysis)
 4.  What are critical components that Digitron did not take into account?
 
-Assignment 1: Concept Testing ([PDF]({{< baseurl >}}/resources/assignmenti))  
-Assignment 1: Concept Testing Example ([PDF]({{< baseurl >}}/resources/pdaconcepttest))
+Assignment 1: Concept Testing ({{% resource_link a392c23c-c262-ca62-516f-83f4107255e5 "PDF" %}})  
+Assignment 1: Concept Testing Example ({{% resource_link d2a9a649-b481-616a-f1d6-03f3085241be "PDF" %}})
 
 
 {{< tdclose >}}
@@ -225,7 +230,7 @@ Assignment 1: Concept Testing Example ([PDF]({{< baseurl >}}/resources/pdaconcep
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 3: Market Development
 {{< thclose >}}
 
@@ -340,7 +345,7 @@ MacMillan, I.C., and R.G. McGrath, "Discovering New Points of Differentiation," 
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 4: Entrepreneurial Communication Strategy
 {{< thclose >}}
 
@@ -364,9 +369,9 @@ Joachimsthaler, E., and D.A. Aaker, "Building Brands Without Mass Media," _HBR_,
 {{< tdopen >}}
 
 
-Assignment 2: Demand Forecasting ([PDF]({{< baseurl >}}/resources/assignment2))
+Assignment 2: Demand Forecasting ({{% resource_link ea886d27-f825-041c-94cf-2b9fa20d50f9 "PDF" %}})
 
-Assignment 2: Blogit Software ([ZIP]({{< baseurl >}}/resources/prg))  
+Assignment 2: Blogit Software ({{% resource_link a629d656-1e3a-8e28-fde0-dd89ce007172 "ZIP" %}})  
 (this archive contains the Blogit executable file, 1 .dat file and 1 .prg file which are required by the application).
 
 
@@ -413,7 +418,7 @@ Case: TIVO (HBS case, 5- 501-057).
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 5: Entrepreneurial Pricing Strategy
 {{< thclose >}}
 
@@ -477,7 +482,7 @@ Case: Rogers Communications, Inc., The Wave (HBS case, 9-597-050).
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 6: Entrepreneurial Distribution Strategy
 {{< thclose >}}
 
@@ -526,7 +531,7 @@ Case: Keurig (HBS case, 9-899-180).
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Module 7: Building Customer Relationships
 {{< thclose >}}
 
@@ -575,7 +580,7 @@ Case: BizRate.com (HBS, 9-501-024).
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Presentation of Marketing Plans
 {{< thclose >}}
 
