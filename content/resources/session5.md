@@ -5,6 +5,7 @@ file: /courses/15-835-entrepreneurial-marketing-spring-2002/69978c0b031d140cb4be
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,5 +15,3 @@ title: 'Session 5: Wildfire Communications'
 uid: 69978c0b-031d-140c-b4be-76e89740214f
 ---
 Lecture presentation on business concept testing.
-
-
