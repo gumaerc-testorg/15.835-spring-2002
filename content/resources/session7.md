@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on demand forecasting, the simple hierarchy of effect
   model, and other popular models.
 file: /courses/15-835-entrepreneurial-marketing-spring-2002/9fd26a053ed7d04ba13810f2d9ce5dbd_session7.pdf
+file_size: 73776
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
