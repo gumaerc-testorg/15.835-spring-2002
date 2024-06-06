@@ -2,6 +2,7 @@
 content_type: resource
 description: Introductory lecture presentation on entrepreneurship and marketing.
 file: /courses/15-835-entrepreneurial-marketing-spring-2002/bae6d8fa5e4036f0a1dbcedcae7b473f_session1.pdf
+file_size: 702084
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

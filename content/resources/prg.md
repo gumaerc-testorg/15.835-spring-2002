@@ -3,6 +3,7 @@ content_type: resource
 description: This archive contains Blogit software and associated files. Blogit is
   a data analysis program used for one of the course assignments.
 file: /courses/15-835-entrepreneurial-marketing-spring-2002/a629d6561e3a8e28fde0dd89ce007172_prg.zip
+file_size: 84366
 file_type: application/zip
 learning_resource_types:
 - Tools
