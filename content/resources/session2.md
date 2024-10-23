@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on competitive advantage, the pioneer advantage,
   and the first mover advantage.
-file: /courses/15-835-entrepreneurial-marketing-spring-2002/8148720a64c449f704bbc93d133d23d2_session2.pdf
+file: /ol-ocw-studio-app/courses/15-835-entrepreneurial-marketing-spring-2002/8148720a64c449f704bbc93d133d23d2_session2.pdf
 file_size: 301644
 file_type: application/pdf
 learning_resource_types:
