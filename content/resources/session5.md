@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "Lecture presentation on business concept testing.\r\n"
-file: /courses/15-835-entrepreneurial-marketing-spring-2002/69978c0b031d140cb4be76e89740214f_session5.pdf
+file: /ol-ocw-studio-app/courses/15-835-entrepreneurial-marketing-spring-2002/69978c0b031d140cb4be76e89740214f_session5.pdf
 file_size: 205465
 file_type: application/pdf
 learning_resource_types:

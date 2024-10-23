@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example product concept testing survey.
-file: /courses/15-835-entrepreneurial-marketing-spring-2002/d2a9a649b481616af1d603f3085241be_pdaconcepttest.pdf
+file: /ol-ocw-studio-app/courses/15-835-entrepreneurial-marketing-spring-2002/d2a9a649b481616af1d603f3085241be_pdaconcepttest.pdf
 file_size: 126969
 file_type: application/pdf
 learning_resource_types:
