@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture presentation on consumer product positioning, pioneers, late\
   \ entrants, and preference regression.\r\n"
-file: /courses/15-835-entrepreneurial-marketing-spring-2002/217856b19498fba4c0c60915fe6cb475_session12.pdf
+file: /ol-ocw-studio-app/courses/15-835-entrepreneurial-marketing-spring-2002/217856b19498fba4c0c60915fe6cb475_session12.pdf
 file_size: 197008
 file_type: application/pdf
 learning_resource_types:

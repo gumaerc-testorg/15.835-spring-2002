@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on market segmentation, targeting, and the Miller
   case.
-file: /courses/15-835-entrepreneurial-marketing-spring-2002/4a78fb73bfd05bc392b7dea833568c85_session9.pdf
+file: /ol-ocw-studio-app/courses/15-835-entrepreneurial-marketing-spring-2002/4a78fb73bfd05bc392b7dea833568c85_session9.pdf
 file_size: 154783
 file_type: application/pdf
 learning_resource_types:
