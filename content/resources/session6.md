@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on demand forecasting, sales forecasting of innovative
   products, diffusion models, logit models, and the Korean beer war.
-file: /ol-ocw-studio-app/courses/15-835-entrepreneurial-marketing-spring-2002/4e30eec05db3832728dcca533c270bab_session6.pdf
+file: /courses/15-835-entrepreneurial-marketing-spring-2002/4e30eec05db3832728dcca533c270bab_session6.pdf
 file_size: 774201
 file_type: application/pdf
 learning_resource_types:
