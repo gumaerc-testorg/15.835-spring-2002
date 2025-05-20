@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on marketing research, low-cost experiments, low-cost
   surveys, and statistical analysis.
-file: /ol-ocw-studio-app/courses/15-835-entrepreneurial-marketing-spring-2002/980765047dc49a5c9bad209808970edf_session4.pdf
+file: /courses/15-835-entrepreneurial-marketing-spring-2002/980765047dc49a5c9bad209808970edf_session4.pdf
 file_size: 355196
 file_type: application/pdf
 learning_resource_types:
