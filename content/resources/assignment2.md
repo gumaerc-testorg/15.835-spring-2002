@@ -2,7 +2,7 @@
 content_type: resource
 description: "This assignment is designed to help students learn about how to forecast\
   \ the demand of a new product or service.\r\n"
-file: /ol-ocw-studio-app/courses/15-835-entrepreneurial-marketing-spring-2002/ea886d27f825041c94cf2b9fa20d50f9_assignment2.pdf
+file: /courses/15-835-entrepreneurial-marketing-spring-2002/ea886d27f825041c94cf2b9fa20d50f9_assignment2.pdf
 file_size: 113120
 file_type: application/pdf
 learning_resource_types:

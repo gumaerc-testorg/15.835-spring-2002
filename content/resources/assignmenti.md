@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment to design a research plan for concept testing of a new product.
-file: /ol-ocw-studio-app/courses/15-835-entrepreneurial-marketing-spring-2002/a392c23cc262ca62516f83f4107255e5_assignmentI.pdf
+file: /courses/15-835-entrepreneurial-marketing-spring-2002/a392c23cc262ca62516f83f4107255e5_assignmentI.pdf
 file_size: 101962
 file_type: application/pdf
 learning_resource_types:
