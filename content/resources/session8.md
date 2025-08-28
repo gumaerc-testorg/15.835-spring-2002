@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on competitive market structure and customer-oriented
   market structure analysis.
-file: /courses/15-835-entrepreneurial-marketing-spring-2002/f60359aece6dd5cabd59541b44408750_session8.pdf
+file: /ol-ocw-studio-app/courses/15-835-entrepreneurial-marketing-spring-2002/f60359aece6dd5cabd59541b44408750_session8.pdf
 file_size: 153529
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture presentation comparing two growth strategies: focus and diversification.'
-file: /courses/15-835-entrepreneurial-marketing-spring-2002/82251c8b6dfbecc8f1329e0c9512f3e3_session10.pdf
+file: /ol-ocw-studio-app/courses/15-835-entrepreneurial-marketing-spring-2002/82251c8b6dfbecc8f1329e0c9512f3e3_session10.pdf
 file_size: 56096
 file_type: application/pdf
 learning_resource_types:
